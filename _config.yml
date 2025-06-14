@@ -1,3 +1,1 @@
-title: jdtt.uk
-description: Yelp but for trans friendly places in Manchester.
-theme: jekyll-theme-leap-day
+remote_theme: pages-themes/leap-day@v0.2.0
